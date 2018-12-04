@@ -10,6 +10,6 @@ Keywords:
 Maintainers:
 - Email: agunin@kuberlab.com
   Name: Gunin Alexander
-Name: tensorflow
+Name: tf-test-priv-ds
 Version: 1.0.0
 Type: mlapp-v2
