@@ -64,9 +64,17 @@ dataset:
    name: "Dataset configuration"
    kind: dataset
 
+#priv:
+# workspace: vadim-s-organization
+# value: test-priv-dataset
+# version: 1.0.0
+# wizard:
+#   name: "Dataset configuration"
+#   kind: dataset
+
 priv:
  workspace: vadim-s-organization
- value: test-priv-dataset
+ value: styles
  version: 1.0.0
  wizard:
    name: "Dataset configuration"
