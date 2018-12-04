@@ -65,7 +65,7 @@ dataset:
    kind: dataset
 
 priv:
- workspace: vadim-s-organization
+ workspace: il-ia-poletaev
  value: mnist-images
  version: 1.0.0
  wizard:
