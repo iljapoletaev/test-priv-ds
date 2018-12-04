@@ -64,18 +64,18 @@ dataset:
    name: "Dataset configuration"
    kind: dataset
 
+priv:
+ workspace: vadim-s-organization
+ value: mnist-images
+ version: 1.0.0
+ wizard:
+   name: "Dataset test"
+   kind: dataset
+
 #priv:
-# workspace: vadim-s-organization
-# value: test-priv-dataset
+# workspace: kuberlab-demo
+# value: faces
 # version: 1.0.0
 # wizard:
 #   name: "Dataset configuration"
 #   kind: dataset
-
-priv:
- workspace: kuberlab-demo
- value: faces
- version: 1.0.0
- wizard:
-   name: "Dataset configuration"
-   kind: dataset
