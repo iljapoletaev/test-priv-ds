@@ -73,8 +73,8 @@ dataset:
 #   kind: dataset
 
 priv:
- workspace: vadim-s-organization
- value: styles
+ workspace: kuberlab-demo
+ value: faces
  version: 1.0.0
  wizard:
    name: "Dataset configuration"
